@@ -1,2 +1,3 @@
-# passworg-generator
-A strong password generator extension for chromium based browsers
+# Strong Password Generator
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
