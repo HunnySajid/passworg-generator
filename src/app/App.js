@@ -2,7 +2,7 @@ import React from 'react';
 
 import Link from '@material-ui/core/Link';
 import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/LIstItem';
+import ListItem from '@material-ui/core/ListItem';
 
 import PopupPage from '../popup';
 
@@ -14,7 +14,7 @@ function App() {
 	if (url.includes('popup.html')) {
 		return <PopupPage />;
 	} else {
-	/*
+		/*
     else if (url.includes('options.html')) {
         return (
             <OptionPage />
