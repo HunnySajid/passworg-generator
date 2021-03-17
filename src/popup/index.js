@@ -72,7 +72,7 @@ function PopupPage(props) {
 
 	const goWebsite = () => {
 		chrome.tabs.create({
-			url: 'https://github/HunnySajid.com',
+			url: 'https://github.com/HunnySajid',
 		});
 	};
 
